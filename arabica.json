@@ -1,0 +1,16 @@
+[
+  {
+    "foto": "images/produk/product_capuchino.jpg",
+    "nama": "Cappucino",
+    "size": "500 Gram",
+    "harga": "200.000",
+    "link": "https://tokopedia.com/kopiiawodia"
+  },
+  {
+    "foto": "images/produk/product_espresso.jpg",
+    "nama": "Espresso",
+    "size": "100 Gram",
+    "harga": "100.000",
+    "link": "https://tokopedia.com/kopiiawodia"
+  }
+]
